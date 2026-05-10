@@ -1,1 +1,1 @@
-getting started 
+documenting my learnings from scratch .
